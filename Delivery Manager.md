@@ -57,7 +57,7 @@ o Developed and maintained a strategic Samsung product with over 1 billion downl
 o Conducted extensive research and successfully expanded new types of data transfer from iOS/Android to Samsung devices (call logs, alarms, browser data, home/lock screen, settings, applications...)    
 ##### 4. Samsung Pay (01/2015 – 08/2015)    
 o	Analyzed error reports and resolved payer's issues, ensuring the smooth and uninterrupted operation of the payment ecosystem, resulting in a 25% reduction in user-reported issues.  
-##### 5. Others: Photo Editor (Window PC), Gallery  
+##### 5. Others projects: Photo Editor (Window PC), Gallery  
    
 #### IV EDUCATION    
 o	Master of Engineering  
