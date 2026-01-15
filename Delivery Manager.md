@@ -13,10 +13,10 @@ Contact: Email thuongttg@gmail.com
 | Develop          | C++, Java, Python, SQL, Git, P4 | Android
 | Test   | Selenium, Appium, Manual Testing           
 | AI   | Crewai     
-| Project Manager  | MS Office, Jira, Confluence, Scrum methodology, SPLC, Project Coordination, Risk Managerment  
-| Product Manager  | Product Research and Development 
-| Engineering Manager | Team Leadership, Collaboration, Planning and Directions, Communication
-|Technical skills| Overall IT system knowledge, Technical Quick Learner
+| Project Management  | MS Office, Jira, Confluence, Scrum methodology, SPLC, Project Coordination, Risk Managerment  
+| Product Develop  | Product Research and Development 
+| Engineering Management | Team Leadership, Collaboration, Planning and Directions, Communication
+|Technical Skills| Overall IT system knowledge, Technical Quick Learner
 
 
 #### II WORK EXPERIENCE (SRV - Samsung Reseach and Develop Vietnam, 02/2012 -  Present)             
